@@ -15,7 +15,7 @@ Princess Mononoke
 Totoro  
 <img src="anime_sleeve/totoro_kodama.jpg" width="200"><img src="anime_sleeve/soot_sprites.jpg" width="200">  
 Nauvis of the Valley of the Wind  
-<img src="anime_sleeve/fox_squirrel.jpg" width="200"><img src="anime_sleeve/fox_squirrel_2.jpg" width="200"><img src="anime_sleeve/fox_squirrel_3.jpg" width="200">  
+<img src="anime_sleeve/fox_squirrel.jpg" width="200"><img src="anime_sleeve/fox_squirrel_2.jpg" width="200"><img src="anime_sleeve/fox_squirrel_3.jpg" height="200">  
 Porco Rosso  
 <img src="anime_sleeve/porco_rosso.jpg" width="200">  
 A Silent Voice  
