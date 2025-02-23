@@ -23,9 +23,11 @@ Frieren
 Avatar the Last Airbender  
 <img src="anime_sleeve/avatar_the_last_airbender_nations.jpg" height="200">  
 Arcane  
-<img src="anime_sleeve/arcane_time_rune.jpg" height="200">  
+<img src="anime_sleeve/arcane_time_rune.png" height="200">  
 Perfect Blue  
-<img src="anime_sleeve/perfect_blue.jpg" height="200">  
+<img src="anime_sleeve/perfect_blue.png" height="200">  
+Darling in the Franxx  
+<img src="anime_sleeve/darling.jpg" height="200">  
 A Silent Voice  
 Attack on Titan
 
@@ -37,7 +39,7 @@ The Expanse
 <img src="cyberpunk_sleeve/opa.jpg" height="200">  
 <img src="cyberpunk_sleeve/julie.jpg" height="200">  
 Foundation  
-<img src="cyberpunk_sleeve/trantor.jpg" height="200">
+<img src="cyberpunk_sleeve/trantor.jpg" height="200">  
 Dark  
 <img src="cyberpunk_sleeve/dark_series.jpg" height="200">  
 Ghost in the Shell  
@@ -46,9 +48,9 @@ Cyberpunk Edgerunners
 <img src="cyberpunk_sleeve/edge_runners.jpg" height="200">  
 Psychopass  
 <img src="cyberpunk_sleeve/psychopass_gun.jpg" height="200">  
-Darling in the Franxx  
-Pantheon  
-Steins Gate
+Steins Gate  
+<img src="cyberpunk_sleeve/steins_gate.jpg" height="200">  
+Pantheon
 
 # Back Ideas
 
