@@ -28,6 +28,8 @@ Perfect Blue
 <img src="anime_sleeve/perfect_blue.png" height="200">  
 Darling in the Franxx  
 <img src="anime_sleeve/darling.jpg" height="200">  
+Steins Gate  
+<img src="anime_sleeve/steins_gate.jpg" height="200">  
 A Silent Voice  
 Attack on Titan
 
@@ -47,9 +49,7 @@ Ghost in the Shell
 Cyberpunk Edgerunners  
 <img src="cyberpunk_sleeve/edge_runners.jpg" height="200">  
 Psychopass  
-<img src="cyberpunk_sleeve/psychopass_gun.jpg" height="200">  
-Steins Gate  
-<img src="cyberpunk_sleeve/steins_gate.jpg" height="200">  
+<img src="cyberpunk_sleeve/psychopass_gun.jpg" height="200">
 Pantheon
 
 # Back Ideas
