@@ -29,33 +29,34 @@ Perfect Blue
 A Silent Voice  
 Attack on Titan
 
-Pantheon  
-Steins Gate  
-Cyberpunk Edgerunners  
-Psychopass  
-Darling in the Franxx  
-Ghost in the Shell
-
 # Cyberpunk Sleeve
 
 Solar System Base  
 <img src="cyberpunk_sleeve/solar_system.png" width="200">  
 The Expanse  
 <img src="cyberpunk_sleeve/opa.jpg" height="200">  
-<img src="cyberpunk_sleeve/julie.jpg" height="200">
-
+<img src="cyberpunk_sleeve/julie.jpg" height="200">  
 Foundation  
-<img src="cyberpunk_sleeve/trantor.jpg" height="200">  
-Altered Carbon  
-<img src="cyberpunk_sleeve/altered_carbon.jpg" height="200">  
-Dark
-<img src="cyberpunk_sleeve/dark_series.jpg" height="200">
+<img src="cyberpunk_sleeve/trantor.jpg" height="200">
+Dark  
+<img src="cyberpunk_sleeve/dark_series.jpg" height="200">  
+Ghost in the Shell  
+<img src="cyberpunk_sleeve/ghost_in_the_shell_by_mateuscosme.jpg" height="200">  
+Cyberpunk Edgerunners  
+<img src="cyberpunk_sleeve/edge_runners.jpg" height="200">  
+Psychopass  
+<img src="cyberpunk_sleeve/psychopass_gun.jpg" height="200">  
+Darling in the Franxx  
+Pantheon  
+Steins Gate
 
 # Back Ideas
 
+Altered Carbon  
+<img src="cyberpunk_sleeve/altered_carbon.jpg" height="200">  
 Arcane Vi  
-<img src="cyberpunk_sleeve/arcane_vi.jpg" height="200">  
+<img src="back/arcane_vi.jpg" height="200">  
 Cyberpunk Idea 1  
-<img src="cyberpunk_sleeve/cyberpunk.jpg" height="200">  
+<img src="back/cyberpunk.jpg" height="200">  
 Cyberpunk Idea 2  
-<img src="cyberpunk_sleeve/cyberpunk_2.jpg" height="200">
+<img src="back/cyberpunk_2.jpg" height="200">
