@@ -18,13 +18,16 @@ Nauvis of the Valley of the Wind
 <img src="anime_sleeve/fox_squirrel.jpg" height="200"><img src="anime_sleeve/fox_squirrel_2.jpg" height="200"><img src="anime_sleeve/fox_squirrel_3.jpg" height="200">  
 Porco Rosso  
 <img src="anime_sleeve/porco_rosso.jpg" height="200">  
-A Silent Voice  
 Frieren  
-<a href="https://youtu.be/LjU4OwHfMTQ"><img src="anime_sleeve/sleepy_frieren.png" height="200"></a><a href="https://youtu.be/LjU4OwHfMTQ"><img src="anime_sleeve/sleepy_frieren_2.png" height="200"></a>
-Arcane  
+<a href="https://youtu.be/LjU4OwHfMTQ"><img src="anime_sleeve/sleepy_frieren.png" height="200"></a><a href="https://youtu.be/LjU4OwHfMTQ"><img src="anime_sleeve/sleepy_frieren_2.png" height="200"></a>  
 Avatar the Last Airbender  
-Attack on Titan  
-Perfect Blue
+<img src="anime_sleeve/avatar_the_last_airbender_nations.jpg" height="200">  
+Arcane  
+<img src="anime_sleeve/arcane_time_rune.jpg" height="200">  
+Perfect Blue  
+<img src="anime_sleeve/perfect_blue.jpg" height="200">  
+A Silent Voice  
+Attack on Titan
 
 Pantheon  
 Steins Gate  
@@ -42,8 +45,11 @@ The Expanse
 <img src="cyberpunk_sleeve/julie.jpg" height="200">
 
 Foundation  
+<img src="cyberpunk_sleeve/trantor.jpg" height="200">  
 Altered Carbon  
+<img src="cyberpunk_sleeve/altered_carbon.jpg" height="200">  
 Dark
+<img src="cyberpunk_sleeve/dark_series.jpg" height="200">
 
 # Back Ideas
 
