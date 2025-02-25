@@ -4,6 +4,21 @@
 
 https://tattoodesign.com/blog/studio-ghibli-tattoo/
 
+# Layout Doodles
+
+Left Wrist  
+<img src="anime_sleeve/left_wrist.jpg" height="200">  
+Right Wrist  
+<img src="anime_sleeve/right_wrist.jpg" height="200">  
+Right Inner Forearm  
+<img src="anime_sleeve/right_inner_forearm.jpg" height="200">  
+Right Outer Forearm  
+<img src="anime_sleeve/right_outer_forearm.jpg" height="200">  
+Right Backside Forearm  
+<img src="anime_sleeve/right_backside_forearm.jpg" height="200">  
+Right Upper Arm  
+<img src="anime_sleeve/right_upper_arm.jpg" height="200">
+
 <!-- Gibli Medley
 <img src="anime_sleeve/ghibli_medley_kikinoland.jpg" height="200">   -->
 
