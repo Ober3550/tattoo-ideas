@@ -33,7 +33,9 @@ Darling in the Franxx - Middle outer forearm
 Perfect Blue - Bottom outer forearm  
 <img src="anime_sleeve/perfect_blue.png" height="200">  
 Porco Rosso - Upper Arm  
-<img src="anime_sleeve/porco_rosso.jpg" height="200">
+<img src="anime_sleeve/porco_rosso.jpg" height="200">  
+How to Train your Dragon  
+<img src="anime_sleeve/htd.jpg" height="200">
 
 <!-- Steins Gate
 <img src="anime_sleeve/steins_gate.jpg" height="200">
